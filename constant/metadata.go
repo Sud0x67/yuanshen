@@ -5,7 +5,7 @@ import (
 	"net"
 	"strconv"
 
-	"github.com/Dreamacro/clash/transport/socks5"
+	"github.com/Sud0x67/yuanshen/transport/socks5"
 )
 
 // Socks addr type

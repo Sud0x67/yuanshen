@@ -6,7 +6,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/Dreamacro/clash/component/dialer"
+	"github.com/Sud0x67/yuanshen/component/dialer"
 )
 
 // Adapter Type

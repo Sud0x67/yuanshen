@@ -8,9 +8,9 @@ import (
 	"net"
 	"time"
 
-	"github.com/Dreamacro/clash/common/cache"
-	"github.com/Dreamacro/clash/common/picker"
-	"github.com/Dreamacro/clash/log"
+	"github.com/Sud0x67/yuanshen/common/cache"
+	"github.com/Sud0x67/yuanshen/common/picker"
+	"github.com/Sud0x67/yuanshen/log"
 
 	D "github.com/miekg/dns"
 )

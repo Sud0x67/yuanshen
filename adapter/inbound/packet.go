@@ -1,8 +1,8 @@
 package inbound
 
 import (
-	C "github.com/Dreamacro/clash/constant"
-	"github.com/Dreamacro/clash/transport/socks5"
+	C "github.com/Sud0x67/yuanshen/constant"
+	"github.com/Sud0x67/yuanshen/transport/socks5"
 )
 
 // PacketAdapter is a UDP Packet adapter for socks/redir/tun

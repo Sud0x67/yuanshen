@@ -1,7 +1,7 @@
 package provider
 
 import (
-	"github.com/Dreamacro/clash/constant"
+	"github.com/Sud0x67/yuanshen/constant"
 )
 
 // Vehicle Type

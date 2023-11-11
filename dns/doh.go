@@ -10,8 +10,8 @@ import (
 	"net"
 	"net/http"
 
-	"github.com/Dreamacro/clash/component/dialer"
-	"github.com/Dreamacro/clash/component/resolver"
+	"github.com/Sud0x67/yuanshen/component/dialer"
+	"github.com/Sud0x67/yuanshen/component/resolver"
 
 	D "github.com/miekg/dns"
 )

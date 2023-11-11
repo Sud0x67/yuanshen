@@ -1,4 +1,4 @@
-module github.com/Dreamacro/clash
+module github.com/Sud0x67/yuanshen
 
 go 1.19
 

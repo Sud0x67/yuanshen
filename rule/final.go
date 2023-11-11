@@ -1,7 +1,7 @@
 package rules
 
 import (
-	C "github.com/Dreamacro/clash/constant"
+	C "github.com/Sud0x67/yuanshen/constant"
 )
 
 type Match struct {

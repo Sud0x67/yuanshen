@@ -7,7 +7,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/Dreamacro/clash/log"
+	"github.com/Sud0x67/yuanshen/log"
 
 	"golang.org/x/sys/windows"
 )

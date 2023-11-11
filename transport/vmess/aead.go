@@ -7,7 +7,7 @@ import (
 	"io"
 	"sync"
 
-	"github.com/Dreamacro/clash/common/pool"
+	"github.com/Sud0x67/yuanshen/common/pool"
 )
 
 type aeadWriter struct {

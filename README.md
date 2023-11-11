@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Sud0x67/yuanshen/raw/master/docs/logo.png" alt="Clash" width="200">
-  <br>Clash<br>
+  <br>Yuanshen<br>
 </h1>
 
 <h4 align="center">A rule-based tunnel in Go.</h4>

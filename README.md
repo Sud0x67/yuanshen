@@ -31,15 +31,6 @@
 - Transparent proxy: Redirect TCP and TProxy TCP/UDP with automatic route table/rule management
 - Hot-reload via the comprehensive HTTP RESTful API controller
 
-## Premium
-
-Premium core is proprietary. You can find their release notes and pre-built binaries [here](https://github.com/Sud0x67/yuanshen/releases/tag/premium).
-
-- gvisor/system stack TUN device on macOS, Linux and Windows ([ref](https://github.com/Sud0x67/yuanshen/wiki/Clash-Premium-Features#tun-device))
-- Policy routing with [Scripts](https://github.com/Sud0x67/yuanshen/wiki/Clash-Premium-Features#script)
-- Load your rules with [Rule Providers](https://github.com/Sud0x67/yuanshen/wiki/Clash-Premium-Features#rule-providers)
-- Monitor Clash usage with a built-in profiling engine. ([Sud0x67/yuanshen-tracing](https://github.com/Sud0x67/yuanshen-tracing))
-
 ## Getting Started
 Documentations are available at [GitHub Wiki](https://github.com/Sud0x67/yuanshen/wiki).
 
